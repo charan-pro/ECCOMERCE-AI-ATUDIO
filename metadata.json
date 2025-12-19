@@ -1,0 +1,8 @@
+{
+  "name": "Meesho Clone - AI Powered E-commerce",
+  "description": "A feature-rich social commerce platform inspired by Meesho, featuring AI-powered shopping assistance, product catalog, cart management, and a mobile-first responsive design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
